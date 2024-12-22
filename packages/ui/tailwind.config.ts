@@ -10,7 +10,6 @@ const config = {
     "./src/**/*.{ts,tsx}",
     "../../packages/ui/src/**/*.{ts,tsx}",
   ],
-  prefix: "ui-",
   theme: {
     container: {
       center: true,
